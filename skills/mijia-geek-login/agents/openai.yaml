@@ -1,0 +1,4 @@
+interface:
+  display_name: "米家极客版登录"
+  short_description: "Retrieve Mi Home code and finish local login"
+  default_prompt: "Use $mijia-geek-login to retrieve the Xiaomi Home login code and sign in to the local Mi Home Automation Geek Edition page."

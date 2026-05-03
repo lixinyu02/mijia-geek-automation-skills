@@ -1,0 +1,6 @@
+interface:
+  display_name: "米家极客自动化创建"
+  short_description: "创建、改写并保存米家极客版自动化"
+  default_prompt: "Use $mijia-geek-automation-builder to create or safely apply a real Mi Home Automation Geek Edition rule change."
+policy:
+  allow_implicit_invocation: true

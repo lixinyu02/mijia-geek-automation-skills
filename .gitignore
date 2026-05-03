@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private Mi Home exports and local working artifacts
+mijia_rules_export*.json
+mijia_rules_intermediate*.json
+mijia_rules_summary*.md
+.mijia-*profile/
+*_result.json
+*_result.md
+apply_*.py
+create_*_rule.js
+
+# Personal publishing materials kept locally, not in the public repo
+promo/xiaohongshu/
+scripts/make_xiaohongshu_posters.py

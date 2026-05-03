@@ -1,0 +1,6 @@
+interface:
+  display_name: "米家极客规则解析"
+  short_description: "从米家自动化极客版导出规则并生成可读摘要和中间格式"
+  default_prompt: "Use $mijia-geek-rules-parser to export Mi Home Automation Geek Edition rules and generate a readable summary."
+policy:
+  allow_implicit_invocation: true
